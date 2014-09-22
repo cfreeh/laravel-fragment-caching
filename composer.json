@@ -1,0 +1,22 @@
+{
+    "name": "gchaincl/laravel-fragment-caching",
+    "description": "Fragment Caching support helper",
+    "license": "MIT",
+    "keywords": ["cache", "fragment", "helper", "laravel"],
+    "authors": [
+        {
+            "name": "Gustaf Shin",
+            "email": "gustaf@espontanea.io"
+        }
+    ],
+    "require": {
+        "illuminate/cache":"4.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gchaincl\\LaravelFragmentCaching": "src/"
+        }
+    },
+
+    "minimum-stability": "dev"
+}
