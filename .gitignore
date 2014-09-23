@@ -1,2 +1,6 @@
+#laravel things
 /vendor/
 composer.lock
+
+#phpstorm folder
+.idea/
